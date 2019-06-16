@@ -12,6 +12,6 @@ Our propose</p>
 <li>Binarize First and Last layer</li>
 </ul>
 <p><img alt="enter image description here" src="img.JPG"></p>
-<p>Training &amp; Test<br>
-python3 <a href="http://main.py">main.py</a> --binarize true</p>
+<h2 id="training--test">Training &amp; Test</h2>
+<p><strong>python3 <a href="http://main.py">main.py</a> --binarize true</strong></p>
 
